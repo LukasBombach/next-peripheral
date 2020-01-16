@@ -11,7 +11,7 @@ Output devices are defined as
 - Android Browser
 - Capacitor
 
-![degradation-enhancement](https://github.com/LukasBombach/next-peripheral/blob/master/packages/next-peripheral/docs/images/degradation-enhancement.svg)
+![degradation-enhancement](https://github.com/LukasBombach/next-peripheral/blob/master/docs/images/degradation-enhancement.svg)
 
 By framing browsers as output devices and listing Capacitor amongst them, we can apply the concept of `graceful degradation` and `progressive enhancement` to than and focus on out app as a single code base that can be run _anywhere_\*.
 
