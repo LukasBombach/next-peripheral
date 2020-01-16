@@ -13,4 +13,4 @@ Output devices are defined as
 
 By framing browsers as output devices and listing Capacitor amongst them, we can apply the concept of `graceful degration` and `progressive enhancement` to than and focus on out app as a single code base that can be run _anywhere_\*.
 
-\* Probably not really anywhere, but whereever it may be possible
+<sub>\* Probably not really anywhere, but whereever it may be possible</sub>
